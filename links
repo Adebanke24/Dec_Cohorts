@@ -2,3 +2,6 @@ git clone
 git add .
 git commit -m
 git push origin main
+
+
+git comit -m "update new fixes"
